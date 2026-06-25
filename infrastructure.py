@@ -54,3 +54,19 @@ result = {
     "signed_at": datetime.utcnow().isoformat(),
     "hash": signed_transaction.hash.hex()
 }
+
+print("Interaction signed successfully")
+
+print(
+    json.dumps(
+        result,
+        indent=2
+    )
+)
+
+# Optional broadcast
+# tx_hash = web3.eth.send_raw_transaction(
+#     signed_transaction.raw_transaction
+# )
+# print(tx_hash.hex())
+```
