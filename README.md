@@ -5,4 +5,4 @@ A key objective of the platform is to simplify defi operations while maintaining
 
 The repository also includes resources related to swap mechanisms and transaction workflows across a distributed chain environment. Through open collaboration and continuous improvement, the project aims to deliver practical tools that can support a wide range of decentralized use cases.
 
-Whether used for learning, research, or production deployments, this codebase is designed to serve as a dependable foundation for blockchain development and community-driven innovation.
+Whether used for learning, research, or production deployments, designed to serve as a dependable foundation for blockchain development and community-driven innovation.
